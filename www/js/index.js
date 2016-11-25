@@ -36,6 +36,7 @@ var app = {
         app.receivedEvent('deviceready');
         console.log("keep awake!")
         window.plugins.insomnia.keepAwake()
+        document.getElementById('ifrm').src = "http://labs.sense-studios.com/cardboard/"
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
