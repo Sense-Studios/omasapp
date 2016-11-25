@@ -43,7 +43,7 @@
     <author email="info@sense-studios.com" href="http://phonegap.com">
         Sense Studios
     </author>
-    <content src="http://labs.sense-studios.com/cardboard/" />
+    <content src="index.html" />
     <preference name="exit-on-suspend" value="false" />
     <preference name="permissions" value="none" />
     <preference name="fullscreen" value="true" />
